@@ -1,7 +1,5 @@
 /*
-EUID: smm0705
 Name: Mohammed Mudasir Shaik
-Student Id: 11608752
 
 Program: C Program to record copying time of file from A to B in the range 1KB to 100 MB (doubling in each step) 
 */
